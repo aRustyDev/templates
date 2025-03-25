@@ -17,6 +17,7 @@ My collection of template repos all collected in one place.
 | App  | [tmpl-ctf.rs](https://github.com/aRustyDev/tmpl-ctf.rs)                 | Use for creating your own CTF questions/events |
 | App  | [tmpl-precommit-hook](https://github.com/aRustyDev/tmpl-precommit-hook) | Use for framing your own pre-commit hook       |
 | Lang | [tmpl-swift](https://github.com/aRustyDev/tmpl-swift)                   | Swift template repo with iOS flavoring         |
+| Lang | [tmpl-python](https://github.com/aRustyDev/tmpl-python)                 | Python template repo                           |
 
 ## Common Goals
 
