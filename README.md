@@ -1,23 +1,28 @@
 # templates
 My collection of template repos all collected in one place.
 
-| Type | Name                                                                    | Description                                    |
-|------|-------------------------------------------------------------------------|------------------------------------------------|
-| Lang | [tmpl-rust](https://github.com/aRustyDev/tmpl-rust)                     | Rust template repo                             |
-| Lang | [tmpl-roc](https://github.com/aRustyDev/tmpl-roc)                       | Roc lang template repo                         |
-| Lang | [tmpl-go](https://github.com/aRustyDev/tmpl-go)                         | Go template repo                               |
-| App  | [tmpl-gha](https://github.com/aRustyDev/tmpl-gha)                       | Template repo for GitHub Actions               |
-| Lang | [tmpl-zig](https://github.com/aRustyDev/tmpl-zig)                       | Zig template repo                              |
-| Lang | [tmpl-kotlin](https://github.com/aRustyDev/tmpl-kotlin)                 | Kotlin template repo                           |
-| Lang | [tmpl-ts](https://github.com/aRustyDev/tmpl-ts)                         | Typescript template repo                       |
-| Lang | [tmpl-nix](https://github.com/aRustyDev/tmpl-nix)                       | NOTE: not entirely sure yet; but its for Nix   |
-| Lang | [tmpl-helm](https://github.com/aRustyDev/tmpl-helm)                     | Helm template repo                             |
-| Lang | [tmpl-c-cpp](https://github.com/aRustyDev/tmpl-c-cpp)                   | C/C++ template repo                            |
-| App  | [tmpl-quizl.rs](https://github.com/aRustyDev/tmpl-quizl.rs)             | Use for holding your own quizl.rs quizzes      |
-| App  | [tmpl-ctf.rs](https://github.com/aRustyDev/tmpl-ctf.rs)                 | Use for creating your own CTF questions/events |
-| App  | [tmpl-precommit-hook](https://github.com/aRustyDev/tmpl-precommit-hook) | Use for framing your own pre-commit hook       |
-| Lang | [tmpl-swift](https://github.com/aRustyDev/tmpl-swift)                   | Swift template repo with iOS flavoring         |
-| Lang | [tmpl-python](https://github.com/aRustyDev/tmpl-python)                 | Python template repo                           |
+| Type      | Name                                                                                              | Description                                    |
+|-----------|---------------------------------------------------------------------------------------------------|------------------------------------------------|
+| Lang      | [tmpl-rust](https://github.com/aRustyDev/tmpl-rust)                                               | Rust template repo                             |
+| Lang      | [tmpl-roc](https://github.com/aRustyDev/tmpl-roc)                                                 | Roc lang template repo                         |
+| Lang      | [tmpl-go](https://github.com/aRustyDev/tmpl-go)                                                   | Go template repo                               |
+| App       | [tmpl-gha](https://github.com/aRustyDev/tmpl-gha)                                                 | Template repo for GitHub Actions               |
+| Lang      | [tmpl-zig](https://github.com/aRustyDev/tmpl-zig)                                                 | Zig template repo                              |
+| Lang      | [tmpl-kotlin](https://github.com/aRustyDev/tmpl-kotlin)                                           | Kotlin template repo                           |
+| Lang      | [tmpl-ts](https://github.com/aRustyDev/tmpl-ts)                                                   | Typescript template repo                       |
+| Lang      | [tmpl-nix](https://github.com/aRustyDev/tmpl-nix)                                                 | NOTE: not entirely sure yet; but its for Nix   |
+| Lang      | [tmpl-helm](https://github.com/aRustyDev/tmpl-helm)                                               | Helm template repo                             |
+| Lang      | [tmpl-c-cpp](https://github.com/aRustyDev/tmpl-c-cpp)                                             | C/C++ template repo                            |
+| App       | [tmpl-quizl.rs](https://github.com/aRustyDev/tmpl-quizl.rs)                                       | Use for holding your own quizl.rs quizzes      |
+| App       | [tmpl-ctf.rs](https://github.com/aRustyDev/tmpl-ctf.rs)                                           | Use for creating your own CTF questions/events |
+| App       | [tmpl-precommit-hook](https://github.com/aRustyDev/tmpl-precommit-hook)                           | Use for framing your own pre-commit hook       |
+| Lang      | [tmpl-swift](https://github.com/aRustyDev/tmpl-swift)                                             | Swift template repo with iOS flavoring         |
+| Lang      | [tmpl-python](https://github.com/aRustyDev/tmpl-python)                                           | Python template repo                           |
+| Extension | [tmpl-editor-extension-zed](https://github.com/aRustyDev/tmpl-editor-extension-zed)               | Editor extension template repo for zed         |
+| Extension | [tmpl-editor-extension-vscode](https://github.com/aRustyDev/tmpl-editor-extension-vscode)         | Editor extension template repo for vscode      |
+| Extension | [tmpl-editor-extension-jetbrains](https://github.com/aRustyDev/tmpl-editor-extension-jetbrains)   | Editor extension template repo for jetbrains   |
+| Extension | [tmpl-editor-extension-nvim](https://github.com/aRustyDev/tmpl-editor-extension-nvim)             | Editor extension template repo for nvim        |
+| Extension | [tmpl-editor-extension-obsidian](https://github.com/aRustyDev/tmpl-editor-extension-obsidian)     | Editor extension template repo for obsidian    |
 
 ## Common Goals
 
