@@ -17,3 +17,25 @@ My collection of template repos all collected in one place.
 | App  | [tmpl-ctf.rs](https://github.com/aRustyDev/tmpl-ctf.rs)                 | Use for creating your own CTF questions/events |
 | App  | [tmpl-precommit-hook](https://github.com/aRustyDev/tmpl-precommit-hook) | Use for framing your own pre-commit hook       |
 | Lang | [tmpl-swift](https://github.com/aRustyDev/tmpl-swift)                   | Swift template repo with iOS flavoring         |
+
+## Common Goals
+
+- Build automation (GHA)
+- Pre-commit standardization
+  - Linting
+  - Secret Scanning
+  - Code Coverage
+  - Testing + Attestation
+- Secret Scanning (Again)
+- Re-testing + Attestation Publishing
+- Publishing
+  - Helm packages
+  - Containers/Containerfiles
+  - crates.io
+  - go-releaser
+  - npm
+  - homebrew
+  - chocolatey
+  - apt/dev/etc
+- Telemetry Standarization
+- Log/Tracing Standarization
